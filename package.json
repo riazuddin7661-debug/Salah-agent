@@ -1,0 +1,1 @@
+{"description":"Salah Travel passenger agent server: holds the AI key so the app never has to.","license":"UNLICENSED","main":"server.js","name":"salah-agent","private":true,"scripts":{"start":"node server.js"},"version":"1.0.0"}
